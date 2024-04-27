@@ -1,0 +1,15 @@
+.css{
+    background-color: black;
+    color: white;
+}
+
+.contact-body{
+    background-color: blue;
+}
+.contact-heading{
+    background-color: red;
+}
+
+#about-id{
+    background-color: orange;
+}
